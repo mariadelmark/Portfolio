@@ -44,7 +44,7 @@ body,html {
 }
 #title {
     font-size:40px;
-    background-image: linear-gradient(to left, #7E2B55 0%,#7E2B55 100%);
+    background-image: linear-gradient(to left, #818f82  0%,#262e27  100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
@@ -58,7 +58,7 @@ body,html {
 #links {
     margin:40px 0px;
     transition:0.6s ease-in-out;
-    color:#fff;
+    color:#7E2B55;
 }
 #links a {
     margin:0px 30px;
@@ -87,6 +87,7 @@ body,html {
 #tagline {
     font-size:50px;
     width:60%;
+    color:#7E2B55
 }
 #portfolio {
     width:80%;
@@ -158,7 +159,7 @@ body,html {
     color:#fff;
 }
 .btn_one {
-    color:white;
+    color:#7E2B55;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
